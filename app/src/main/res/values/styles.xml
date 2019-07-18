@@ -1,0 +1,18 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#121212</item>
+        <item name="colorPrimaryDark">@color/colorBlack</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@color/colorWhile</item>
+        <item name="android:windowBackground">@color/colorDark</item>
+        <item name="android:textSize">16sp</item>
+
+    </style>
+    <style name="AppThemeTwo" parent="Theme.AppCompat.Light">
+        <item name="android:colorControlActivated">@color/colorOrange</item>
+        <item name="android:colorControlNormal">@color/colorWhile</item>
+    </style>
+
+</resources>
